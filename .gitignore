@@ -33,8 +33,6 @@ ENV/
 *~
 
 # Test results (keep sample, ignore actual)
-test-results/*.csv
-test-results/*.md
 !test-results/.gitkeep
 
 # API keys and secrets

@@ -6,8 +6,8 @@
 
 本项目包含两个子项目：
 
-1. **Coze 智能客服 Agent**：在 Coze 低代码平台上搭建端到端智能客服系统
-2. **Dify RAG 参数调优**：在 Dify 平台上设计对比实验，量化分析不同配置对 RAG 检索效果的影响
+1. **Coze 智能客服 Agent**：在 Coze 低代码平台上搭建端到端智能客服系统 [https://www.coze.cn/work_flow?space_id=7539860429355991082&workflow_id=7633648789806661682&force_stay=1]
+2. **Dify RAG 参数调优**：在 Dify 平台上设计对比实验，量化分析不同配置对 RAG 检索效果的影响 [https://cloud.dify.ai/apps]
 
 ## 目录结构
 
@@ -56,7 +56,7 @@ coze-dify-rag-demo/
 
 ### Coze Agent
 
-详见 [coze-agent/Coze客服Agent面试准备.md](coze-agent/Coze客服Agent面试准备.md)
+详见[https://www.coze.cn/work_flow?space_id=7539860429355991082&workflow_id=7633648789806661682&force_stay=1]
 
 ### Dify RAG 测试
 
